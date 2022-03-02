@@ -1,4 +1,4 @@
-##Olá! Eu sou Tuana Nicoly
+## Oiiiie, eu sou Tuana Nicoly
 
 - 🔭 Estou entrando no mundo da programação
 - 🌱 Estudando Git/Github
@@ -11,7 +11,7 @@
 </div>
   
  <div style="display: inline_block"><br>
-   <img align="center" alt="Tuana_Sql" height="30" wedth"40" src"https//cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
+   <img align="center" alt="Tuana_Sql" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
 </div>
   
   ##
@@ -24,4 +24,4 @@
   
   ![Snake animation](https://github.com/tuananicoly/tuananicoly/blob/output/github-contribution-grid-snake.svg)
   
-  
+  </div>
